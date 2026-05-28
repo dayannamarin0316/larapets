@@ -8,6 +8,7 @@ use Illuminate\Http\Request;
 
 class AdoptionController extends Controller
 {
+    //dffghgfdghjgfhjkgfhj
     /**
      * Display a listing of the resource.
      */
